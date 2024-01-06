@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML & CSS, Bootstrap.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gowrishankarj1110@gmail.com
 
 <!---
 GowrishankarWeb/GowrishankarWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
