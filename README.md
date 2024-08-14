@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GowrishankarWeb
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on Java SpringBoot and Angular.
 
 <!---
